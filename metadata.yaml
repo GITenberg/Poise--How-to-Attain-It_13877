@@ -1,0 +1,29 @@
+_repo: Poise--How-to-Attain-It_13877
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Starke, D.
+    gutenberg_agent_id: '5265'
+    url: http://www.gutenberg.org/2009/agents/5265
+description: '"Poise is a power derived from the Mastery of Self." All efforts directed
+  toward the correcting of temperamental or mental blemishes or defects and nervous
+  conditions are of benefit to humanity. In producing this book the Author''s purpose
+  was to help mankind to overcome these weaknesses, which are a serious impediment
+  to mental development, and hinder personal advancement and general progress. The
+  aim of the Publishers in issuing this translation is to put into the hands of ...'
+gutenberg_issued: '2004-10-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13877'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life'
+- !lcc 'BJ'
+title: 'Poise: How to Attain It'
+url: http://www.gutenberg.org/ebooks/13877
